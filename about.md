@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I manage a Microscopy Core Facility in the Douglas Hospital Research Center in Montreal. I take care of all aspects of the facility, including developping new analysis tools for my users.
+I manage a Microscopy Core Facility in the Douglas Hospital Research Center in Montreal. I take care of all aspects of the facility, including developing new analysis tools for my users.
 
 I also teach part-time the online class Introduction to Biophotonics, at Université Laval in Quebec City
 
