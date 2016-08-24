@@ -12,6 +12,6 @@ I also teach part-time the online class Introduction to Biophotonics, at Univers
 
 Previously, I completed a BSc in Biology and a Masters in Neurobiology in Université Laval in Quebec City. After my Master's, I worked as a research assistant in a Biophotonics lab where I studied protein interactions using fluorescence microscopy and automated image analysis.
 
-### Contact me
+### More Info
 
 [GitHub](https://github.com/labriedion)
