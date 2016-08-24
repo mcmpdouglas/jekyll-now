@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I manage a Microscopy Core Facility in the Douglas Hospital Research Center in Montreal. I take care of all aspects of the facility, including developping new analysis tools for my users.
 
-### More Information
+I also teach part-time the online class Introduction to Biophotonics, at Université Laval in Quebec City
 
-A place to include any other types of information that you'd like to include about yourself.
+### Background
+
+Previously, I completed a BSc in Biology and a Masters in Neurobiology in Université Laval in Quebec City. After my Master's, I worked as a research assistant in a Biophotonics lab where I studied protein interactions using fluorescence microscopy and automated image analysis.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:labriedion@gmail.com)
