@@ -14,4 +14,4 @@ Previously, I completed a BSc in Biology and a Masters in Neurobiology in Univer
 
 ### Contact me
 
-[email@domain.com](mailto:labriedion@gmail.com)
+[email](mailto:labriedion@gmail.com)
