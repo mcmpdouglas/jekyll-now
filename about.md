@@ -14,4 +14,4 @@ Previously, I completed a BSc in Biology and a Masters in Neurobiology in Univer
 
 ### Contact me
 
-[email me](mailto:labriedion@gmail.com)
+[GitHub](https://github.com/labriedion)
