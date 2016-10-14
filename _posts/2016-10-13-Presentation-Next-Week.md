@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation about fluorescence on Monday October 17th!
+title: Presentation about Fluorescence Microscopy on Monday October 17th
 ---
 
 I've got a presentation next week on Monday October 17th at 11am, in the Bowermann Room (Douglas Hospital). I will go over the basics of fluorescence microscopy and
