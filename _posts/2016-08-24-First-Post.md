@@ -12,3 +12,5 @@ Since then, I've been looking into extending the image treatment capabilities of
 For deconvolution, an old colleague suggested I try AIDA, the Adaptative Image Deconvolution Algorithm. I'm currently trying it out on some of our datasets before trying to implement it in OMERO later. For denoising, I've recently come accross CANDLE-J, an open-source ImageJ implementation of the CANDLE program that was written here in Montreal by Haider Khan (https://github.com/haiderriazkhan/CANDLE-J). This ImageJ plugin worked amazingly well on our two-photon datasets, so much that it could allow us to image a whole mouse brain in hours instead of days.
 
 I'll post news here of my progress for these projects and news about the facility.
+
+Étienne
