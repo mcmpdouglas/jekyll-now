@@ -19,4 +19,5 @@ The price drop is permanent and retroactive to August 1st 2016. Also note that t
 Please let me know if you have any questions.
 
 Thank you,
+
 Étienne
