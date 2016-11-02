@@ -7,3 +7,5 @@ I've got a presentation next week on Monday October 17th at 11am, in the Bowerma
 discuss the various techniques and applications of fluorescence microscopy. I will also briefly discuss image analysis and which software to use.
 
 See you there!
+
+Étienne
