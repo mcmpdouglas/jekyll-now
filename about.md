@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-### This blog
+### This website
 This blog is maintained by Étienne Labrie-Dion, coordinator of this core facility.
 
 ### The MCMP
