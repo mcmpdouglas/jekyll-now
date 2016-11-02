@@ -13,3 +13,5 @@ I tested Vaa3D on my workstation and it performed much better than Imaris. Some 
 are hard to visualize and manipulate with Imaris. Vaa3D opens those in seconds and can do analysis such as cell segmentation without any problems.
 
 Contact me if you need help getting started with Vaa3D!
+
+Étienne
