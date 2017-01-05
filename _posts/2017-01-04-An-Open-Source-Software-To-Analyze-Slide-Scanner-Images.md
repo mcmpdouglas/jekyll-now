@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Orbit, An Efficient Software to Analyze your Slide Scanner Images
+title: Orbit, An Open-Source Software to Analyze your Slide Scanner Images
 ---
 
 Happy new year everyone!
