@@ -16,16 +16,16 @@ You will also probably need to remove the background from your image so omdecon 
 
 As an added convenience, I also included a simple way to produce theoretical PSFs using Christoph Gohlke's **[PSF module](http://www.lfd.uci.edu/~gohlke/code/psf.py.html)**. There's two different ways to use this module through omdecon:
  
-  Manually set your PSF.
+Manually set your PSF.
 
-    Enter all the information about your experiment, such as the technique and the different channels you used.
+ Enter all the information about your experiment, such as the technique and the different channels you used.
   
-   or, let omdecon automatically set your PSF.
+or, let omdecon automatically set your PSF.
 
-    For this, your images will have to be tagged with the proper metadata:
-      - Objective name (from which omdecon deduces immersion medium and technique used)
-      - Numerical Aperture
-      - Channel excitation and emission
+ For this, your images will have to be tagged with the proper metadata:
+ - Objective name (from which omdecon deduces immersion medium and technique used)
+ - Numerical Aperture
+ - Channel excitation and emission
 
 To use it, go to the scripts menu in OMERO and click on "Deconvolution". You will find the omdecon script there.
 
