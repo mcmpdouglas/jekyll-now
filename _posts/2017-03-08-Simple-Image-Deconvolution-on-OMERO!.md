@@ -18,7 +18,7 @@ As an added convenience, I also included a simple way to produce theoretical PSF
  
 **Manually set your PSF:** Enter all the information about your experiment, such as the technique and the different channels you used.
   
-**or, let omdecon automatically set your PSF:** For this, your images will have to be tagged with the proper metadata:
+**Automatically set your PSF:** For this, your images will have to be tagged with the proper metadata:
   - Objective name (from which omdecon deduces immersion medium and technique used)
   - Numerical Aperture
   - Channel excitation and emission
