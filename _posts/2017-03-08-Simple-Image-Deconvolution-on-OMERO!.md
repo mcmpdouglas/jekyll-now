@@ -27,6 +27,6 @@ To use it, go to the scripts menu in OMERO and click on "Deconvolution". You wil
 
 Please read the instructions that come with omdecon before using it! 
 
-Let me know how it goes!
+Keep me posted if you use it!
 
-Étienne
+![omdecon interface](/images/omdecon_interface.png)
