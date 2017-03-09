@@ -3,11 +3,9 @@ layout: post
 title: Simple Image Deconvolution on the OMERO server
 ---
 
-Hey guys,
+![omdecon](/images/omdecon.png)
 
 I finally finished writing the first version of **omdecon**, a simple way to deconvolute your images on the OMERO server. Using omdecon, you just select an image, start the script, and your deconvoluted images will soon be available in the same dataset! It's that simple!
-
-![omdecon](/images/omdecon.png)
 
 This script uses a state-of-the-art open-source method, **[AIDA, the Adaptative Image Deconvolution Algorithm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166524/)**. All you need to use it is to supply a PSF, for example, an image of a bead,
 and the script takes care of the rest. 
