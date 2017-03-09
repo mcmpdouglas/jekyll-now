@@ -5,7 +5,7 @@ title: Simple Image Deconvolution on the OMERO server
 
 Hey guys,
 
-I finally finishing writing the first version of **omdecon**, a simple way to deconvolute your images on the OMERO server. Using omdecon, you just select an image, start the script, and your deconvoluted images will soon be available in the same dataset! It's that simple!
+I finally finished writing the first version of **omdecon**, a simple way to deconvolute your images on the OMERO server. Using omdecon, you just select an image, start the script, and your deconvoluted images will soon be available in the same dataset! It's that simple!
 
 ![omdecon](/images/omdecon.png)
 
