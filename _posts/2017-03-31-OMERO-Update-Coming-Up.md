@@ -3,8 +3,6 @@ layout: post
 title: OMERO Update Coming Up, Need to Update Your Client
 ---
 
-![OMERO 5.3.0](http://www.openmicroscopy.org/site/support/ome-artwork/omero-logos/omero-logo-400.png)
-
 A [new version of OMERO](http://downloads.openmicroscopy.org/omero/5.3.0/) with new features and upgrades is out now! I am planning to upgrade the server on **Friday, April 14th 2017**. The OMERO server will be **down** the whole day
 
 You'll have to upgrade your OMERO Insight client to version 5.3.0 to connect to OMERO. **Your current version won't work anymore.** 
