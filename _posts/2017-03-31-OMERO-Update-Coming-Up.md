@@ -19,10 +19,11 @@ What you need to do:
 2. If you are using the ImageJ plugin to connect to OMERO, make sure to [download the new plugin](http://downloads.openmicroscopy.org/omero/5.3.0/artifacts/OMERO.insight-ij-5.3.0-ice36-b59.zip) and replace the old one.
 3. Let me know if you have any issue, and enjoy!.
 
-
-
-What's new in OMERO 5.3.0:
 ----
+
+
+
+### What's new in OMERO 5.3.0:
 
 >* Improved support for many file formats 
 >* Script improvements including ability to create tiled images from big ROIs
