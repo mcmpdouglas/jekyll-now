@@ -11,10 +11,13 @@ Also, there's a small but real risk of data loss during the update phase. Please
 
 What you need to do:
 ----
+**Before** Friday, April 14th:
 1. Download a copy of your important data.
-2. **After** Friday, April 14th, download and install the [new version of the OMERO Insight client](http://downloads.openmicroscopy.org/omero/5.3.0/).
-3. If you are using the ImageJ plugin to connect to OMERO, make sure to [download the new plugin](http://downloads.openmicroscopy.org/omero/5.3.0/artifacts/OMERO.insight-ij-5.3.0-ice36-b59.zip) and replace the old one.
-4. Let me know if you have any issue, and enjoy!.
+
+**After** Friday, April 14th:
+1. Download and install the [new version of the OMERO Insight client](http://downloads.openmicroscopy.org/omero/5.3.0/).
+2. If you are using the ImageJ plugin to connect to OMERO, make sure to [download the new plugin](http://downloads.openmicroscopy.org/omero/5.3.0/artifacts/OMERO.insight-ij-5.3.0-ice36-b59.zip) and replace the old one.
+3. Let me know if you have any issue, and enjoy!.
 
 
 
