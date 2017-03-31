@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OMERO Update Coming Up: Need to Update Your Client
+title: OMERO Update Coming Up, Need to Update Your Client
 ---
 
 ![OMERO 5.3.0](http://www.openmicroscopy.org/site/support/ome-artwork/omero-logos/omero-logo-400.png)
