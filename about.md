@@ -8,7 +8,7 @@ This blog is maintained by Étienne Labrie-Dion, coordinator of this core facili
 
 ### The MCMP
 
-The Molecular and Cellular Microscopy Platform (MCMP) is an advanced optical microscopy core facility offering access to the latest fluorescence microscopy techniques for neuroscience research. The facility is an Olympus Discovery Center, born from a partnership between the research center and Olympus Canada Inc. This allows the MCMP to offer the latest microscopes and techniques at competitive rates compared with other core facilities.
+The [Molecular and Cellular Microscopy Platform (MCMP)](http://douglas.research.mcgill.ca/molecular-and-cellular-microscopy-platform-mcmp) is an advanced optical microscopy core facility offering access to the latest fluorescence microscopy techniques for neuroscience research. The facility is an Olympus Discovery Center, born from a partnership between the research center and Olympus Canada Inc. This allows the MCMP to offer the latest microscopes and techniques at competitive rates compared with other core facilities.
 
 The goal of the facility is to help students and researchers alike to plan, design, perform and analyze fluorescence microscopy experiments. The Molecular and Cellular Microscopy Platform offers one-on-one support and training for fluorescence microscopy experiments and image analysis. The facility is qualified in a range of imaging tasks from basic neuron reconstruction to high-speed, deep-tissue optogenetic experiments in brain slices or live animals.
 
