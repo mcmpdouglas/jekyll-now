@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ### This website
-This blog is maintained by Étienne Labrie-Dion, coordinator of this core facility.
+This blog is maintained by the coordinator of the core facility.
 
 ### The MCMP
 
@@ -20,4 +20,4 @@ The facility also features a state-of-the-art FLUOVIEW FVMPE-RS advanced multi-p
 
 ### Contact me
 
-[Etienne Labrie-Dion](mailto:etienne.labrie-dion@douglas.mcgill.ca)
+[](mailto:)
